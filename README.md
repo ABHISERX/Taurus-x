@@ -1,6 +1,6 @@
 ##### ▶ IF YOU CAN'T DEPLOY CREATE [GITHUB ACCOUNT](github.com)
 
-##### ▶ THEN COPY THIS LINK https://heroku.com/deploy?template=https://github.com/I-AM-MUHAMMED/Taurus-x 
+##### ▶ THEN COPY THIS LINK https://github.com/ABHISERX/Taurus-x 
 
 ##### ▶ CHANGE MY USERNAME I-AM-MUHAMMED TO YOUR USER NAME AND DEPLOY
 
